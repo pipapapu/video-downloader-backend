@@ -59,4 +59,4 @@ def get_file(filename):
 
 if __name__ == '__main__':
     # Jalankan server di port 5000
-    app.run(host='0.0.0.0', port=7860, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
